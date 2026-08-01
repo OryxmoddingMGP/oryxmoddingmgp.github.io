@@ -1,4 +1,4 @@
-# 🏍️ ORYX Modding Studios
+# 🏍️ ORYX Modding Studios🏍️
 
 <p align="center">
   <img src="https://github.com/oryxmoddingmgp/oryxmoddingmgp.github.io/blob/main/images/logo.png" width="300">
