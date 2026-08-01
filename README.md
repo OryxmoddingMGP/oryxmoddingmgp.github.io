@@ -8,7 +8,7 @@
 Independent MotoGP Modding Studio 🇧🇷
 </h3>
 
----
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🌐 About ORYX
 
@@ -23,7 +23,7 @@ Our mission is to make customization easier through:
 
 Built with passion for racing and creativity.
 
----
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 🏁 Projects
 
@@ -38,8 +38,7 @@ Current projects:
 - Ducati Desmosedici GP PaintKit
 
 More coming soon.
-
----
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ### 🟢 Guaraná Racing Team
 
@@ -54,8 +53,53 @@ Features:
 
 ---
 
-## 📥 Downloads
+This and all official ORYX releases are available through: 
 
-All official ORYX releases are available through:
+🌐 Website:https://oryxmoddingmgp.github.io/ 
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-🌐 Website:https://oryxmoddingmgp.github.io/
+## 📚 Documentation
+
+Every ORYX project includes:
+
+✅ Installation guide  
+✅ Credits  
+✅ Version information  
+✅ Usage instructions  
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## 🐞 Bug Reports
+
+Found a problem?
+
+Please report:
+
+- Game version
+- Mod version
+- Description of the issue
+- Screenshots (if possible)
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## 📧 Contact
+
+Email:loorenzocf25.gg@gmail.com
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+## ⚠️ Disclaimer
+
+ORYX Modding Studios creates modifications for entertainment and community purposes.
+
+ORYX is not affiliated with MotoGP, Milestone, Honda, Yamaha, Ducati, or any other official racing organization.
+
+All trademarks belong to their respective owners.
+
+Mods are created with respect for the original games and their communities.
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## 🇧🇷 Made in Brazil
+
+Created independently by ORYX Modding Studios.
+
+© 2026 ORYX Modding Studios
