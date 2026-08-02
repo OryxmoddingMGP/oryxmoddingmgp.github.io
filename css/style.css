@@ -340,3 +340,55 @@ footer {
     margin-bottom: 60px;
 
 }
+/* =========================================
+   Coming Soon Page
+   ========================================= */
+
+
+.coming-page {
+
+    background: white;
+
+    color: black;
+
+    height: 100vh;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: center;
+
+}
+
+
+
+.coming-container {
+
+    text-align: center;
+
+}
+
+
+
+.coming-container h1 {
+
+    font-size: 70px;
+
+    font-weight: 700;
+
+    margin-bottom: 15px;
+
+}
+
+
+
+.coming-container p {
+
+    font-size: 22px;
+
+    letter-spacing: 5px;
+
+    color: #555;
+
+}
