@@ -1,9 +1,127 @@
-/* ORYX Modding Studios
-   Main Website Style
-*/
-
 body {
+    margin: 0;
+    font-family: Arial, sans-serif;
     background: #0b0b0b;
     color: white;
-    font-family: Arial, sans-serif;
+}
+
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 20px 50px;
+
+    background: #111;
+}
+
+
+.logo {
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+
+.dropdown {
+    position: relative;
+}
+
+
+.dropdown-content {
+
+    display: none;
+
+    position: absolute;
+
+    top: 100%;
+    left: 0;
+
+    background: #181818;
+
+    width: 230px;
+
+    padding: 10px;
+
+    border-radius: 8px;
+}
+
+
+.dropdown-content a {
+
+    display: block;
+
+    padding: 12px;
+
+}
+
+
+.dropdown-content a:hover {
+
+    background: #222;
+
+}
+
+
+.dropdown:hover .dropdown-content {
+
+    display: block;
+
+}
+
+
+.hero {
+
+    padding: 80px 20px;
+
+    text-align: center;
+
+}
+
+
+.hero img {
+
+    width: 250px;
+
+}
+
+
+h2 {
+
+    color: #aaa;
+
+}
+
+
+p {
+
+    color: #ccc;
+
+    font-size: 20px;
+
+}
+
+
+footer {
+
+    margin-top: 100px;
+
+    padding: 20px;
+
+    color: #777;
+
 }
