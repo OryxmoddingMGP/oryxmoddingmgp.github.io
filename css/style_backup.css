@@ -1,1 +1,200 @@
+/* ORYX Modding Studios
+   Main Website Style
+*/
 
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0b0b0b;
+    color: white;
+}
+
+
+
+/* ===== NAVBAR ===== */
+
+
+.navbar {
+
+    width: 100%;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+    padding: 20px 40px;
+
+    background: #111;
+
+}
+
+
+
+.logo {
+
+    font-size: 32px;
+
+    font-weight: bold;
+
+    letter-spacing: 5px;
+
+}
+
+
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+}
+
+
+.nav-links a {
+
+    color: white;
+
+    text-decoration: none;
+
+    font-size: 16px;
+
+    transition: 0.2s;
+
+}
+
+
+
+nav a:hover {
+
+    color: #00a86b;
+
+}
+
+
+
+/* ===== DROPDOWN ===== */
+
+
+.dropdown {
+
+    position: relative;
+
+}
+
+
+
+.dropdown-content {
+
+    display: none;
+
+    position: absolute;
+
+    top: 35px;
+
+    left: 0;
+
+
+    background: #181818;
+
+    width: 230px;
+
+
+    border-radius: 8px;
+
+    padding: 10px;
+
+
+    z-index: 10;
+
+}
+
+
+
+.dropdown-content a {
+
+    display: block;
+
+    padding: 12px;
+
+}
+
+
+
+.dropdown-content a:hover {
+
+    background: #252525;
+
+}
+
+
+
+.dropdown:hover .dropdown-content {
+
+    display: block;
+
+}
+
+
+
+/* ===== HOME ===== */
+
+
+.hero {
+
+    text-align: center;
+
+    padding: 80px 20px;
+
+}
+
+
+
+.hero img {
+
+    width: 250px;
+
+}
+
+
+
+h2 {
+
+    color: #aaa;
+
+    font-size: 32px;
+
+}
+
+
+
+p {
+
+    color: #ccc;
+
+    font-size: 20px;
+
+}
+
+
+
+/* ===== FOOTER ===== */
+
+
+footer {
+
+    margin-top: 100px;
+
+    padding: 20px;
+
+    text-align: center;
+
+    color: #777;
+
+}
