@@ -276,3 +276,67 @@ footer {
     color: #777;
 
 }
+/* =========================================
+   Internal Pages - FAQ Layout
+   ========================================= */
+
+
+.content-page {
+
+    max-width: 1000px;
+
+    margin: 0 auto;
+
+    padding: 80px 40px;
+
+    text-align: left;
+
+}
+
+
+
+.page-header {
+
+    margin-bottom: 70px;
+
+}
+
+
+
+.content-page h1 {
+
+    font-size: 42px;
+
+    margin-bottom: 20px;
+
+}
+
+
+
+.content-page h2 {
+
+    color: white;
+
+    margin-bottom: 15px;
+
+}
+
+
+
+.content-page p {
+
+    color: #cccccc;
+
+    line-height: 1.7;
+
+    font-size: 18px;
+
+}
+
+
+
+.faq-item {
+
+    margin-bottom: 60px;
+
+}
