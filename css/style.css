@@ -228,3 +228,51 @@ a {
     display: block;
 
 }
+/* =========================================
+   Hero Section
+   ========================================= */
+
+
+.hero {
+
+    text-align: center;
+
+    padding: 100px 20px;
+
+}
+
+
+
+.hero h1 {
+
+    font-size: 55px;
+
+    letter-spacing: 5px;
+
+    margin-bottom: 20px;
+
+}
+
+
+
+.hero p {
+
+    font-size: 20px;
+
+    color: #aaa;
+
+}
+/* =========================================
+   Footer
+   ========================================= */
+
+
+footer {
+
+    text-align: center;
+
+    padding: 30px;
+
+    color: #777;
+
+}
