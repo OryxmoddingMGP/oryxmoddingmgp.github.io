@@ -43,3 +43,84 @@ a {
     text-decoration: none;
 
 }
+
+/* =========================================
+   Navbar
+   ========================================= */
+
+
+.navbar {
+
+    width: 100%;
+
+    background: #111;
+
+    border-bottom: 1px solid #222;
+
+}
+
+
+
+.nav-container {
+
+    max-width: 1200px;
+
+    margin: 0 auto;
+
+    padding: 18px 40px;
+
+    display: flex;
+
+    align-items: center;
+
+    justify-content: space-between;
+
+}
+
+
+
+/* Logo */
+
+.logo img {
+
+    width: 120px;
+
+    height: auto;
+
+}
+
+
+
+/* Menu */
+
+.nav-menu {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 28px;
+
+}
+
+
+
+.nav-menu a {
+
+    font-size: 15px;
+
+    font-weight: 600;
+
+    color: white;
+
+    transition: color 0.3s ease;
+
+}
+
+
+
+.nav-menu a:hover {
+
+    color: #00a86b;
+
+}
