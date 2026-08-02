@@ -124,3 +124,42 @@ a {
     color: #00a86b;
 
 }
+
+/* =========================================
+   Navbar Alignment Fix
+   ========================================= */
+
+
+.navbar {
+
+    display: flex;
+
+    width: 100%;
+
+}
+
+
+
+.nav-container {
+
+    width: 100%;
+
+}
+
+
+
+.logo {
+
+    display: flex;
+
+    align-items: center;
+
+}
+
+
+
+.nav-menu {
+
+    margin-left: auto;
+
+}
