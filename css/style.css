@@ -1,19 +1,24 @@
 /* =========================================
-   ORYX Modding Studios - Website V2
-   Base Styles
+   ORYX Modding Studios
+   Website V2 - Main Styles
    ========================================= */
 
 
 /* Reset */
 
 * {
+
     margin: 0;
+
     padding: 0;
+
     box-sizing: border-box;
+
 }
 
 
-/* Main */
+
+/* Body */
 
 body {
 
@@ -28,6 +33,7 @@ body {
 }
 
 
+
 /* Links */
 
 a {
@@ -35,206 +41,5 @@ a {
     color: inherit;
 
     text-decoration: none;
-
-   /* =========================================
-   Navbar
-   ========================================= */
-
-
-.navbar {
-
-    width: 100%;
-
-    background: #111;
-
-    border-bottom: 1px solid #222;
-
-}
-
-
-.nav-container {
-
-    max-width: 1200px;
-
-    margin: auto;
-
-    padding: 20px 40px;
-
-    display: flex;
-
-    align-items: center;
-
-    justify-content: space-between;
-
-}
-
-
-
-/* Logo */
-
-.logo img {
-
-    width: 120px;
-
-    display: block;
-
-}
-
-
-
-/* Menu */
-
-.nav-menu {
-
-    display: flex;
-
-    align-items: center;
-
-    gap: 28px;
-
-}
-
-
-
-.nav-menu a {
-
-    color: #ffffff;
-
-    font-size: 15px;
-
-    font-weight: 600;
-
-    transition: 0.3s;
-
-}
-
-
-
-.nav-menu a:hover {
-
-    color: #00a86b;
-
-}
-
-   /* =========================================
-   Dropdown
-   ========================================= */
-
-
-.dropdown {
-
-    position: relative;
-
-}
-
-
-
-.dropbtn {
-
-    background: none;
-
-    border: none;
-
-    color: white;
-
-    font-size: 15px;
-
-    font-weight: 600;
-
-    cursor: pointer;
-
-    padding: 0;
-
-}
-
-
-
-.arrow {
-
-    font-size: 12px;
-
-}
-
-
-
-.dropdown-content {
-
-    position: absolute;
-
-    top: 35px;
-
-    left: 0;
-
-
-    background: #151515;
-
-    min-width: 220px;
-
-
-    border: 1px solid #222;
-
-    border-radius: 10px;
-
-
-    padding: 10px;
-
-
-    opacity: 0;
-
-    visibility: hidden;
-
-
-    transform: translateY(-10px);
-
-
-    transition: all 0.3s ease;
-
-
-}
-
-
-
-.dropdown-content a {
-
-
-    display: block;
-
-
-    padding: 12px 15px;
-
-
-    border-radius: 6px;
-
-
-}
-
-
-
-.dropdown-content a:hover {
-
-
-    background: #222;
-
-
-    color: #00a86b;
-
-
-}
-
-
-
-.dropdown:hover .dropdown-content {
-
-
-    opacity: 1;
-
-
-    visibility: visible;
-
-
-    transform: translateY(0);
-
-
-}
 
 }
