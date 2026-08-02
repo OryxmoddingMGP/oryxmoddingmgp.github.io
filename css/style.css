@@ -164,3 +164,68 @@ a {
     gap: 28px;
 
 }
+/* =========================================
+   Downloads Dropdown
+   ========================================= */
+
+
+.dropdown {
+
+    position: relative;
+
+}
+
+
+
+.dropdown-content {
+
+    position: absolute;
+
+    top: 35px;
+
+    left: 0;
+
+
+    background: #151515;
+
+    width: 220px;
+
+    padding: 10px;
+
+
+    border-radius: 10px;
+
+    border: 1px solid #222;
+
+
+    display: none;
+
+}
+
+
+
+.dropdown-content a {
+
+    display: block;
+
+    padding: 12px;
+
+}
+
+
+
+.dropdown-content a:hover {
+
+    background: #222;
+
+    color: #00a86b;
+
+}
+
+
+
+.dropdown:hover .dropdown-content {
+
+    display: block;
+
+}
