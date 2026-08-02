@@ -50,16 +50,11 @@ body {
 
 
 
-nav {
-
+.nav-links {
     display: flex;
-
     align-items: center;
-
     gap: 22px;
-
 }
-
 
 
 nav a {
